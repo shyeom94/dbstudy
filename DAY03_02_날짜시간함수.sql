@@ -68,21 +68,3 @@ SELECT MONTHS_BETWEEN(SYSDATE, TO_DATE('2023-01-01', 'YYYY-MM-DD'))
   FROM DUAL;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
